@@ -10,3 +10,5 @@ This is my first demo project
 
 >“There comes a point in your life when you need to stop reading other people's books and write your own.”
 *― Albert Einstein*
+
+Use `git status` to list all new or modified files that haven't yet been committed.
